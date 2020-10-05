@@ -9,7 +9,7 @@
 // Edit with your custom salt!
 define('SALT', '6fe6f886d2148c5d97e4bfc0741fc218');
 // Expire time, default is 1 hour (3600 sec)
-define('EXPIRE', '20');
+define('EXPIRE', '3600');
 
 
 /**
