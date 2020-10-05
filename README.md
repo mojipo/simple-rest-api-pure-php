@@ -15,12 +15,24 @@ In this api, CURD operations are performed on the database. Token authorization 
 
 We have 6 methods of access the API:
 
-1. (GET) Get all users http://localhost:8000/get_users.php
-2. (GET) Get one user based on ID http://localhost:8000/get_user.php?id=userid
-3. (POST) Login to get a Token http://localhost:8000/login.php
-4. (POST) Create new user http://localhost:8000/add_user.php (Token required)
-5. (POST) Update a user http://localhost:8000/update_user.php?id=userid (Token required)
-6. (GET) Delete a user http://localhost:8000/delete_user.php?id=userid (Token required)
+1. Get all users http://localhost:8000/get_users.php
+![Get all users](https://github.com/mojipo/simple-rest-api-pure-php/blob/master/screenshot/1.JPG?raw=true)
+
+2. Get one user based on ID http://localhost:8000/get_user.php?id=userid
+![Get one user](https://github.com/mojipo/simple-rest-api-pure-php/blob/master/screenshot/2.JPG?raw=true)
+
+3. Login to get a Token http://localhost:8000/login.php
+![Login](https://github.com/mojipo/simple-rest-api-pure-php/blob/master/screenshot/3.JPG?raw=true)
+
+4. Create new user http://localhost:8000/add_user.php Token required
+![Create new user](https://github.com/mojipo/simple-rest-api-pure-php/blob/master/screenshot/4.JPG?raw=true)
+
+5. Update a user http://localhost:8000/update_user.php?id=userid Token required
+![Update a user](https://github.com/mojipo/simple-rest-api-pure-php/blob/master/screenshot/5.JPG?raw=true)
+
+6. Delete a user http://localhost:8000/delete_user.php?id=userid Token required
+![Delete a user](https://github.com/mojipo/simple-rest-api-pure-php/blob/master/screenshot/6.JPG?raw=true)
+
 
 
 ## Credits
