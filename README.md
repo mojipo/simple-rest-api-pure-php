@@ -37,4 +37,4 @@ We have 6 methods of access the API:
 
 ## Credits
 
-- [Mojtaba Matboyi](https://github.com/mojipo)
+- [Mojtaba M](https://github.com/mojipo)
